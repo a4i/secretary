@@ -1,0 +1,11 @@
+[jo]
+url = "https://www.legifrance.gouv.fr/jorf/jo/"
+tag = "meta"
+attrs = {'name'= 'description'}
+attr = "content"
+
+[meo]
+url = "https://www.meo.fr/produit/biologique-decafeine-dosettes-7g-x-36/"
+tag = "input"
+attrs = {'name'= 'gtm4wp_price'}
+attr = "value"
